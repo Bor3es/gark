@@ -11,5 +11,6 @@ int main() {
      cout << "HA-HA-HA" << endl;
      cout << "PREKOL 1" << endl;
      cout << "Lolipop buy" << endl;
-     cout << "LOL KEK CHUBYREK" << endl;
+     cout << "LOL KEK CHEBYREK" << endl;
+     cout << "Anekdot pro rabbit" << endl;
 }
