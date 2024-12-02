@@ -15,4 +15,5 @@ int main() {
      cout << "Anekdot pro rabbit" << endl;
      cout << "Tolko ne rabbit" << endl;
      cout << "a tebya nikto be sprashival ;)" << endl;
+     cout << "((((" << endl;
 }
