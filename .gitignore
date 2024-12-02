@@ -4,3 +4,9 @@
 
 /.vs/gark/v17
 /ConsoleApplication1/.vs/ConsoleApplication1/v17/ipch/AutoPCH
+/ConsoleApplication1/.vs/ConsoleApplication1/v17/Browse.VC.db
+*.db-shm
+/ConsoleApplication1/.vs/ConsoleApplication1/v17/Browse.VC.db-wal
+/ConsoleApplication1/.vs/ConsoleApplication1/v17/Browse.VC.opendb
+/ConsoleApplication1/.vs/ConsoleApplication1/FileContentIndex
+/.gitignore
