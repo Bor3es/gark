@@ -14,4 +14,5 @@ int main() {
      cout << "LOL KEK CHEBYREK" << endl;
      cout << "Anekdot pro rabbit" << endl;
      cout << "Tolko ne rabbit" << endl;
+     cout << "a tebya nikto be sprashival ;)" << endl;
 }
