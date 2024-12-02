@@ -13,4 +13,5 @@ int main() {
      cout << "PREKOL 1" << endl;
 
      cout << "Lolipop buy" << endl;
+     cout << "Lolipop buy" << endl;
 }
