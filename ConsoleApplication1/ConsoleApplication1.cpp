@@ -8,4 +8,5 @@ int main() {
 
     unsigned int bitValue = (X >> n) & 1;
      cout << bitValue << endl;
+     cout << "HA-HA-HA" << endl;
 }
