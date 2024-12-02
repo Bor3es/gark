@@ -7,7 +7,7 @@ int main() {
     cin >> n;
 
     unsigned int bitValue = (X >> n) & 1;
-     cout << bitValue << endl;
+     cout << bitValue << endl; //апмапапапап
      cout << "HA-HA-HA" << endl;
      cout << "NO NO NO MISTER FISH" << endl;
      cout << "PREKOL 1" << endl;
