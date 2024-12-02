@@ -10,4 +10,7 @@ int main() {
      cout << bitValue << endl;
      cout << "HA-HA-HA" << endl;
      cout << "NO NO NO MISTER FISH" << endl;
+     cout << "PREKOL 1" << endl;
+
+     cout << "Lolipop buy" << endl;
 }
