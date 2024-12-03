@@ -15,4 +15,6 @@ int main() {
      cout << "Lolipop buy" << endl;
      cout << "Lolipop buy" << endl;
      cout << "LOL KEK CHUBYREK" << endl;
+     cout << "Change 1" << endl;
+
 }
